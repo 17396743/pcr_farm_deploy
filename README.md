@@ -22,7 +22,7 @@
 
   4-1、下载地址：[点我访问](https://blog.csdn.net/weixin_42101599/article/details/120265289)
 	
--by 幻雨之秋 编辑时间：2021年11月26日
+-by [幻雨之秋](http://hyzqacg.github.io/) 编辑时间：2021年11月26日
 
 ```python
 pip install -r requirements.txt
