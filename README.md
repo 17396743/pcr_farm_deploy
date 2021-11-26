@@ -33,4 +33,4 @@ pip install -r requirements.txt
 ## 🔇免责声明
  当你下载或使用本项目，将默许
  
- 本项目仅供交流和学习使用，请勿用此从事 违法/商业盈利等，开发者团队拥有本项目的最终解释权
+ 本项目仅供交流和学习使用，请勿用此从事 违法/商业盈利等，[开发者团队](https://github.com/SimonShi1994/Princess-connection-farm)拥有本项目的最终解释权
