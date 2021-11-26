@@ -3,7 +3,7 @@
 #   Princess connection 公主连结农场脚本的环境下载清单-优化版
 
 ## 📑简介
-此项目为国服公主连结脚本的python环境下载清单，本清单基于公主连结脚本自带的requirements.txt清单
+此项目为国服公主连结脚本的python环境下载清单，本清单基于公主连结脚本自带的requirements.txt
 
 （https://github.com/SimonShi1994/Princess-connection-farm) 二次修改。
 
