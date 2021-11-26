@@ -4,7 +4,7 @@
 
 ## 📑简介
 此项目为国服公主连结脚本的python环境下载清单，本清单基于公主连结脚本自带的清单
-（https://github.com/SimonShi1994/Princess-connection-farm）二次修改。
+（https://github.com/SimonShi1994/Princess-connection-farm) 二次修改。
 
 ## 🌐环境
 1、需要 Python 64位版本>=3.8（安装时记得把带有PATH字母选项的勾上）不要3.9！！！
