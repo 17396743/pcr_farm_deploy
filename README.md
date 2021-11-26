@@ -11,15 +11,15 @@
 
 2、自行打开requirements.txt确认依赖无误
 
-	2-1、cvxpy、cvxopt 下载的慢，如果出现报错请多下载几次。
+  2-1、cvxpy、cvxopt 下载的慢，如果出现报错请多下载几次。
 	
-	2-2、muggle_ocr 目前只有阿里云镜像才能下载到
+  2-2、muggle_ocr 目前只有阿里云镜像才能下载到
 	
 3、需要执行指令安装依赖
 	
 4、Visual C++ Build Tools 建议在网上找离线版下载。在线版容易出现网络异常。文件大小在1.08GB左右
 
-	4-1、下载地址：[点我访问](https://blog.csdn.net/weixin_42101599/article/details/120265289)
+  4-1、下载地址：[点我访问](https://blog.csdn.net/weixin_42101599/article/details/120265289)
 	
 -by 幻雨之秋 编辑时间：2021年11月26日
 
