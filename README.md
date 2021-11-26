@@ -24,11 +24,11 @@
 	
 -by [幻雨之秋](http://hyzqacg.github.io/) 
 
-编辑时间：2021年11月26日
-
 ```python
 pip install -r requirements.txt
 ```
+
+编辑时间：2021年11月26日
 
 ## 🔇免责声明
  当你下载或使用本项目，将默许
